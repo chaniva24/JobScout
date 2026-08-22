@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="en-AU">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="Search casual, internship, graduate and part-time opportunities across Australia.">
+  <title>JobScout Australia</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Manrope:wght@700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="#"><span class="brand-mark">J</span> JobScout <b>AU</b></a>
+    <a class="about-link" href="#about">About</a>
+  </header>
+
+  <main>
+    <section class="intro">
+      <p class="eyebrow">OPPORTUNITIES ACROSS AUSTRALIA</p>
+      <h1>Find work that fits <em>your life.</em></h1>
+      <p>Casual shifts, internships, graduate roles and part-time jobs — gathered in one simple place.</p>
+    </section>
+
+    <section class="search-panel" aria-label="Job search filters">
+      <label><span>What</span><input id="keyword" type="search" placeholder="Job title, skill or company"></label>
+      <label><span>Where</span><input id="location" type="search" placeholder="City, state or remote"></label>
+      <label><span>Job type</span><select id="type"><option value="">All job types</option><option>Casual</option><option>Internship</option><option>Graduate</option><option>Part-time</option></select></label>
+      <button id="searchButton" type="button">Search jobs</button>
+    </section>
+
+    <section class="results-section">
+      <div class="results-heading">
+        <div><p class="eyebrow">LATEST ROLES</p><h2 id="resultCount">Loading jobs…</h2></div>
+        <select id="sort" aria-label="Sort jobs"><option value="newest">Newest first</option><option value="title">Title A–Z</option><option value="company">Company A–Z</option></select>
+      </div>
+      <div id="status" class="status" role="status"></div>
+      <div id="jobs" class="job-grid"></div>
+      <button id="loadMore" class="load-more" type="button" hidden>Show more jobs</button>
+    </section>
+
+    <section id="about" class="about">
+      <p class="eyebrow">BUILT FOR JOB SEEKERS</p>
+      <h2>Less scrolling. More applying.</h2>
+      <p>JobScout brings entry-level and flexible opportunities into a fast, focused search. Listings link directly to the original employer or job platform.</p>
+    </section>
+  </main>
+  <footer><span>© <span id="year"></span> JobScout Australia</span><span>Listings may change — always confirm details with the employer.</span></footer>
+  <template id="jobTemplate"><article class="job-card"><div class="job-top"><span class="job-type"></span><time></time></div><h3></h3><p class="company"></p><p class="location"></p><p class="description"></p><a target="_blank" rel="noopener noreferrer">View job <span>↗</span></a></article></template>
+  <script src="app.js" defer></script>
+</body>
+</html>
