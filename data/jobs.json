@@ -1,0 +1,6 @@
+[
+  {"id":"demo-1","title":"Part-time Customer Service Team Member","company":"Harbour & Co","location":"Sydney NSW","type":"Part-time","description":"Join a friendly customer team with flexible weekday and weekend shifts.","url":"https://www.adzuna.com.au/","created":"2026-08-21T09:00:00Z"},
+  {"id":"demo-2","title":"Graduate Software Developer","company":"Southern Systems","location":"Melbourne VIC","type":"Graduate","description":"A structured graduate program for curious developers ready to learn and ship useful products.","url":"https://www.adzuna.com.au/","created":"2026-08-20T08:00:00Z"},
+  {"id":"demo-3","title":"Marketing Intern","company":"Brightside Studio","location":"Brisbane QLD","type":"Internship","description":"Support campaigns, content and reporting in a hands-on paid internship.","url":"https://www.adzuna.com.au/","created":"2026-08-19T06:00:00Z"},
+  {"id":"demo-4","title":"Casual Retail Assistant","company":"Common Goods","location":"Perth WA","type":"Casual","description":"Flexible casual shifts with training provided and a supportive store team.","url":"https://www.adzuna.com.au/","created":"2026-08-18T10:00:00Z"}
+]
