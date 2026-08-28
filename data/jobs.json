@@ -1,5 +1,60 @@
 [
   {
+    "id": "himalayas-https://himalayas.app/companies/g2i/jobs/senior-software-engineer-javascript-typescript",
+    "title": "Senior Software Engineer - JavaScript/TypeScript",
+    "company": "G2i",
+    "location": "Remote — worldwide",
+    "description": "Senior AI Interaction Evaluator (Codex / Claude Code)Contract | $100–$200/hour | 10–20 hrs/week | Start ASAP (through early May) Check out this Loom video for more details!",
+    "url": "https://himalayas.app/companies/g2i/jobs/senior-software-engineer-javascript-typescript",
+    "created": "1970-01-21T16:39:04.474Z",
+    "type": "",
+    "source": "Himalayas"
+  },
+  {
+    "id": "himalayas-https://himalayas.app/companies/micro1/jobs/ai-engineer-7982880650",
+    "title": "AI Engineer",
+    "company": "micro1",
+    "location": "Remote — worldwide",
+    "description": "Job Title: AI Engineer Job Type: Contractor (~15 hrs a week) Location: Remote Schedule: Flexible, you pick the hours and days (including weekends if desired) Job Summary: In this role, you'll apply your expertise to help train next-generation AI systems.",
+    "url": "https://himalayas.app/companies/micro1/jobs/ai-engineer-7982880650",
+    "created": "1970-01-21T16:38:52.211Z",
+    "type": "",
+    "source": "Himalayas"
+  },
+  {
+    "id": "himalayas-https://himalayas.app/companies/micro1/jobs/mcp-expert",
+    "title": "MCP Expert",
+    "company": "micro1",
+    "location": "Remote — worldwide",
+    "description": "Job Title: MCP Expert Job Type: Contractor (~15 hrs a week) Location: Remote Schedule: Flexible, you pick the hours and days (including weekends if desired) Job Summary: In this role, you'll apply your expertise to help train next-generation AI systems.",
+    "url": "https://himalayas.app/companies/micro1/jobs/mcp-expert",
+    "created": "1970-01-21T16:38:52.211Z",
+    "type": "",
+    "source": "Himalayas"
+  },
+  {
+    "id": "himalayas-https://himalayas.app/companies/micro1/jobs/senior-freecad-engineer-6100671338",
+    "title": "Senior FreeCAD Engineer",
+    "company": "micro1",
+    "location": "Remote — worldwide",
+    "description": "Role Title: Senior FreeCAD EngineerRole Type: ContractorLocation: Remotemicro1 is engaging Senior FreeCAD Engineers to contribute expertise to a dynamic customer project.",
+    "url": "https://himalayas.app/companies/micro1/jobs/senior-freecad-engineer-6100671338",
+    "created": "1970-01-21T16:38:52.211Z",
+    "type": "",
+    "source": "Himalayas"
+  },
+  {
+    "id": "himalayas-https://himalayas.app/companies/g2i/jobs/senior-software-engineer-python",
+    "title": "Senior Software Engineer - Python",
+    "company": "G2i",
+    "location": "Remote — worldwide",
+    "description": "Senior AI Interaction Evaluator (Codex / Claude Code)Contract | $100–$200/hour | 10–20 hrs/week | Start ASAP (through early May) Check out this Loom video for more details!",
+    "url": "https://himalayas.app/companies/g2i/jobs/senior-software-engineer-python",
+    "created": "1970-01-21T16:38:42.675Z",
+    "type": "",
+    "source": "Himalayas"
+  },
+  {
     "id": "himalayas-https://himalayas.app/companies/g2i/jobs/c-senior-engineer-ai-interaction-evaluator",
     "title": "C# Senior Engineer - AI Interaction Evaluator",
     "company": "G2i",
@@ -150,61 +205,6 @@
     "description": "We are seeking an ambitious, self-directed Sales Manager to accelerate revenue growth across EMEA and APAC and advance the digitization of the global weather and climate ecosystem.",
     "url": "https://himalayas.app/companies/spire/jobs/sales-manager-weather-climate-emea-apac",
     "created": "1970-01-21T16:38:08.567Z",
-    "type": "",
-    "source": "Himalayas"
-  },
-  {
-    "id": "himalayas-https://himalayas.app/companies/druva/jobs/join-druva-s-talent-community-9413352236",
-    "title": "Join Druva's Talent Community",
-    "company": "Druva",
-    "location": "Remote — worldwide",
-    "description": "If you’re interested in joining the Druva family but don't see a position posted that aligns with what you're looking for, please join our talent community.",
-    "url": "https://himalayas.app/companies/druva/jobs/join-druva-s-talent-community-9413352236",
-    "created": "1970-01-21T16:38:05.619Z",
-    "type": "",
-    "source": "Himalayas"
-  },
-  {
-    "id": "himalayas-https://himalayas.app/companies/freestar/jobs/director-publisher-sales",
-    "title": "Director, Publisher Sales",
-    "company": "Freestar",
-    "location": "Remote — worldwide",
-    "description": "About Freestar:Freestar engineers cutting-edge monetization solutions for websites.",
-    "url": "https://himalayas.app/companies/freestar/jobs/director-publisher-sales",
-    "created": "1970-01-21T16:38:05.617Z",
-    "type": "",
-    "source": "Himalayas"
-  },
-  {
-    "id": "himalayas-https://himalayas.app/companies/micro1/jobs/biglaw-lawyers-3239214341",
-    "title": "BigLaw lawyers",
-    "company": "micro1",
-    "location": "Remote — worldwide",
-    "description": "Role Title: BigLaw lawyersRole Type: ContractorLocation: Remotemicro1 is engaging lawyers to contribute their subject-matter expertise in support of a customer's project.",
-    "url": "https://himalayas.app/companies/micro1/jobs/biglaw-lawyers-3239214341",
-    "created": "1970-01-21T16:37:25.813Z",
-    "type": "",
-    "source": "Himalayas"
-  },
-  {
-    "id": "himalayas-https://himalayas.app/companies/micro1/jobs/biglaw-lawyers-litigation-corporate-m-a",
-    "title": "BigLaw lawyers (Litigation/Corporate/M&A)",
-    "company": "micro1",
-    "location": "Remote — worldwide",
-    "description": "Role Title: BigLaw lawyers (Litigation/Corporate/M&A) Role Type: ContractorLocation: Remotemicro1 is engaging lawyers to contribute their subject-matter expertise in support of a customer's project.",
-    "url": "https://himalayas.app/companies/micro1/jobs/biglaw-lawyers-litigation-corporate-m-a",
-    "created": "1970-01-21T16:37:25.813Z",
-    "type": "",
-    "source": "Himalayas"
-  },
-  {
-    "id": "himalayas-https://himalayas.app/companies/micro1/jobs/logistics-supply-chain-management-specialist-8605527181",
-    "title": "Logistics & Supply Chain Management Specialist",
-    "company": "micro1",
-    "location": "Remote — worldwide",
-    "description": "Role Title: Logistics & Supply Chain Management Specialist Role Type: Contractor Location: Remote micro1 is engaging Logistics & Supply Chain Management Specialists to contribute expertise to a customer's project focused on optimizing supply chain processes and documentation.",
-    "url": "https://himalayas.app/companies/micro1/jobs/logistics-supply-chain-management-specialist-8605527181",
-    "created": "1970-01-21T16:37:25.813Z",
     "type": "",
     "source": "Himalayas"
   },
