@@ -1,5 +1,38 @@
 [
   {
+    "id": "himalayas-https://himalayas.app/companies/micro1/jobs/ml-engineer",
+    "title": "ML Engineer",
+    "company": "micro1",
+    "location": "Remote — worldwide",
+    "description": "Job DescriptionPay: $100–$150/hour Location: Global, fully remote Job Type: Contractor (~15 hours per week) Schedule: Flexible—you choose the hours and days you work, including weekends if desired We are looking for highly skilled Machine Learning Experts to contribute to an AI training project involving model development, training and inference systems, numerical computing, performance optimization, and Python.",
+    "url": "https://himalayas.app/companies/micro1/jobs/ml-engineer",
+    "created": "1970-01-21T16:59:40.603Z",
+    "type": "",
+    "source": "Himalayas"
+  },
+  {
+    "id": "himalayas-https://himalayas.app/companies/micro1/jobs/freecad-expert",
+    "title": "FreeCAD Expert",
+    "company": "micro1",
+    "location": "Remote — worldwide",
+    "description": "Role Title: FreeCAD ExpertRole Type: ContractorLocation: Remotemicro1 is engaging FreeCAD Experts to collaborate on a project supporting a customer in the mechanical engineering, aerospace, or industrial design sector.",
+    "url": "https://himalayas.app/companies/micro1/jobs/freecad-expert",
+    "created": "1970-01-21T16:59:35.383Z",
+    "type": "",
+    "source": "Himalayas"
+  },
+  {
+    "id": "himalayas-https://himalayas.app/companies/micro1/jobs/puzzle-solver-coding",
+    "title": "Puzzle Solver (Coding)",
+    "company": "micro1",
+    "location": "Remote — worldwide",
+    "description": "Puzzle Solver (Coding)Pay: $50–$80/hour Location: Global, fully remote Job Type: Contractor (~15 hours per week) Schedule: Flexible—you choose the hours and days you work, including weekends if desired We are looking for highly skilled coding puzzle solvers to contribute to an AI training project involving algorithmic reasoning, debugging, constrained technical problems, and reproducible software solutions.",
+    "url": "https://himalayas.app/companies/micro1/jobs/puzzle-solver-coding",
+    "created": "1970-01-21T16:59:24.194Z",
+    "type": "",
+    "source": "Himalayas"
+  },
+  {
     "id": "himalayas-https://himalayas.app/companies/micro1/jobs/ai-engineer-7982880650",
     "title": "AI Engineer",
     "company": "micro1",
@@ -183,39 +216,6 @@
     "description": "OGC Global is a boutique customer experience and market research consultancy that helps leading organizations understand their customers, improve experiences, and make better business decisions.",
     "url": "https://himalayas.app/companies/ogc-global/jobs/senior-cx-analyst-project-manager",
     "created": "1970-01-21T16:58:08.381Z",
-    "type": "",
-    "source": "Himalayas"
-  },
-  {
-    "id": "himalayas-https://himalayas.app/companies/evb/jobs/github-contributor",
-    "title": "GitHub Contributor",
-    "company": "EVB",
-    "location": "Remote — worldwide",
-    "description": "• Job Title: GitHub Contributor • Job Type: Contractor • Location: Remote About the hiring company:Our client is a rapidly growing, venture-backed AI company helping shape the next generation of intelligent systems.",
-    "url": "https://himalayas.app/companies/evb/jobs/github-contributor",
-    "created": "1970-01-21T16:58:07.186Z",
-    "type": "",
-    "source": "Himalayas"
-  },
-  {
-    "id": "himalayas-https://himalayas.app/companies/saas-group/jobs/chief-technology-and-product-officer",
-    "title": "Chief Technology and Product Officer",
-    "company": "saas.group",
-    "location": "Remote — worldwide",
-    "description": "This role is part of our ScraperAPIteam, one of our growing brands at saas.",
-    "url": "https://himalayas.app/companies/saas-group/jobs/chief-technology-and-product-officer",
-    "created": "1970-01-21T16:58:06.811Z",
-    "type": "",
-    "source": "Himalayas"
-  },
-  {
-    "id": "himalayas-https://himalayas.app/companies/mercor/jobs/civic-administration-specialist-fully-remote-upto-60-hr-6293135608",
-    "title": "Civic Administration Specialist - Fully Remote | Upto $60/hr",
-    "company": "mercor",
-    "location": "Remote — ",
-    "description": "About the jobMercor connects elite creative and technical talent with leading AI research labs.",
-    "url": "https://himalayas.app/companies/mercor/jobs/civic-administration-specialist-fully-remote-upto-60-hr-6293135608",
-    "created": "1970-01-21T16:58:06.617Z",
     "type": "",
     "source": "Himalayas"
   }
