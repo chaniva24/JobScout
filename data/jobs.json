@@ -1,5 +1,16 @@
 [
   {
+    "id": "himalayas-https://himalayas.app/companies/micro1/jobs/mechanical-cad-expert",
+    "title": "Mechanical CAD Expert",
+    "company": "micro1",
+    "location": "Remote — worldwide",
+    "description": "Role Title: Mechanical CAD ExpertRole Type: ContractorLocation: Remotemicro1 is engaging Mechanical CAD Experts to contribute to a customer project focused on advanced engineering assemblies.",
+    "url": "https://himalayas.app/companies/micro1/jobs/mechanical-cad-expert",
+    "created": "1970-01-21T17:00:10.432Z",
+    "type": "",
+    "source": "Himalayas"
+  },
+  {
     "id": "himalayas-https://himalayas.app/companies/micro1/jobs/product-manager-product-owner",
     "title": "Product Manager/Product Owner",
     "company": "micro1",
@@ -205,17 +216,6 @@
     "description": "About the jobMercor connects elite creative and technical talent with leading AI research labs.",
     "url": "https://himalayas.app/companies/mercor/jobs/music-evaluator-fully-remote-upto-42-hr-7772525800",
     "created": "1970-01-21T16:58:13.410Z",
-    "type": "",
-    "source": "Himalayas"
-  },
-  {
-    "id": "himalayas-https://himalayas.app/companies/growe/jobs/payment-product-manager",
-    "title": "Payment Product Manager",
-    "company": "Growe",
-    "location": "Remote — worldwide",
-    "description": "Growe welcomes those who are excited to:• Decide how the hub behaves: make system behavior explicit (such as callback timeouts, withdrawal hold and release rules, gateway configuration setups, and player-facing error messages) rather than leaving these details in engineers' heads or partner systems; • Own the back office: drive and optimize the seven core operational screens used daily by internal teams (projects, gateways, payment groups, methods, orders, transactions, and logs) to ensure the hub remains fully usable; • Run discovery against internal systems: lead timeboxed spikes across eleven internal systems (including player accounts, wallet, KYC, fraud checks, reconciliation, and taxation) to rank findings by risk and resolve unknowns before they turn into rework; • Sequence the regional migration: define rollout stages, set validation rules using small percentages of live traffic and historical transaction replays, establish criteria for moving to the next step, and prepare clear rollback plans; • Keep regional teams aligned and informed: maintain strong trust and clear communication with local operations, support, and business owners regarding upcoming changes, potential risks, and contingency plans; • Plan for life after launch: establish operational processes for incident management, configuration changes, new method onboarding, and ongoing integration health once a region goes live.",
-    "url": "https://himalayas.app/companies/growe/jobs/payment-product-manager",
-    "created": "1970-01-21T16:58:13.009Z",
     "type": "",
     "source": "Himalayas"
   }
