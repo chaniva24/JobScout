@@ -1,5 +1,38 @@
 [
   {
+    "id": "himalayas-https://himalayas.app/companies/micro1/jobs/application-security-engineer-appsec",
+    "title": "Application Security Engineer (AppSec)",
+    "company": "micro1",
+    "location": "Remote — worldwide",
+    "description": "Job Type: Contractor (~15 hrs a week) Location: Remote Schedule: Flexible, you pick the hours and days (including weekends if desired) Job Summary: In this role, you'll apply your expertise to help train next-generation AI systems.",
+    "url": "https://himalayas.app/companies/micro1/jobs/application-security-engineer-appsec",
+    "created": "1970-01-21T17:20:37.813Z",
+    "type": "",
+    "source": "Himalayas"
+  },
+  {
+    "id": "himalayas-https://himalayas.app/companies/micro1/jobs/backend-security-engineer",
+    "title": "Backend Security Engineer",
+    "company": "micro1",
+    "location": "Remote — worldwide",
+    "description": "Job Type: Contractor (~15 hrs a week) Location: Remote Schedule: Flexible, you pick the hours and days (including weekends if desired) Job Summary: In this role, you'll apply your expertise to help train next-generation AI systems.",
+    "url": "https://himalayas.app/companies/micro1/jobs/backend-security-engineer",
+    "created": "1970-01-21T17:20:37.813Z",
+    "type": "",
+    "source": "Himalayas"
+  },
+  {
+    "id": "himalayas-https://himalayas.app/companies/micro1/jobs/circuit-design-expert",
+    "title": "Circuit Design Expert",
+    "company": "micro1",
+    "location": "Remote — worldwide",
+    "description": "Circuit Design ExpertPay: $80–$130/hour Location: Global, fully remote Job Type: Contractor (~15 hours per week) Schedule: Flexible—you choose the hours and days you work, including weekends if desired We are looking for a highly skilled Circuit Design Expert to contribute to an AI training project involving electronic hardware, circuit simulation, programmatic EDA workflows, verification, and Python.",
+    "url": "https://himalayas.app/companies/micro1/jobs/circuit-design-expert",
+    "created": "1970-01-21T17:20:37.812Z",
+    "type": "",
+    "source": "Himalayas"
+  },
+  {
     "id": "himalayas-https://himalayas.app/companies/the-daily-grace-co/jobs/contract-writer-a-book-exploring-the-beauty-and-meaning-of-sacred-art",
     "title": "Contract Writer - A Book Exploring the Beauty and Meaning of Sacred Art",
     "company": "The Daily Grace Co.",
@@ -51,17 +84,6 @@
     "description": "Location: RemotePosition OverviewWe are seeking a contract writer to develop a Christ-centered book that helps men explore their identity in Christ, understand God’s calling, and live purposefully in family, work, and community.",
     "url": "https://himalayas.app/companies/the-daily-grace-co/jobs/contract-writer-a-book-for-men-asking-questions-about-identity-and-purpose",
     "created": "1970-01-21T17:19:47.692Z",
-    "type": "",
-    "source": "Himalayas"
-  },
-  {
-    "id": "himalayas-https://himalayas.app/companies/powerprozesse/jobs/fullstack-developer-100-remote",
-    "title": "Fullstack-Developer (100% Remote)",
-    "company": "Powerprozesse",
-    "location": "Remote — worldwide",
-    "description": "We're looking for Junior and Senior Developers to join our fully remote team.",
-    "url": "https://himalayas.app/companies/powerprozesse/jobs/fullstack-developer-100-remote",
-    "created": "1970-01-21T17:19:45.915Z",
     "type": "",
     "source": "Himalayas"
   },
@@ -150,39 +172,6 @@
     "description": "Location: RemotePosition OverviewHome is more than a place—it is where much of life unfolds.",
     "url": "https://himalayas.app/companies/the-daily-grace-co/jobs/contract-writer-home-design-photography-book",
     "created": "1970-01-21T17:19:39.307Z",
-    "type": "",
-    "source": "Himalayas"
-  },
-  {
-    "id": "himalayas-https://himalayas.app/companies/micro1/jobs/bilingual-mental-health-expert",
-    "title": "Bilingual Mental Health Expert",
-    "company": "micro1",
-    "location": "Remote — worldwide",
-    "description": "Role Title: Bilingual Mental Health Expert Role Type: ContractorLocation: Remotemicro1 is engaging bilingual mental health experts to contribute to a customer’s project focused on enhancing AI systems with nuanced expertise.",
-    "url": "https://himalayas.app/companies/micro1/jobs/bilingual-mental-health-expert",
-    "created": "1970-01-21T17:19:11.414Z",
-    "type": "",
-    "source": "Himalayas"
-  },
-  {
-    "id": "himalayas-https://himalayas.app/companies/micro1/jobs/data-scientist-7470374102",
-    "title": "Data Scientist",
-    "company": "micro1",
-    "location": "Remote — worldwide",
-    "description": "Role Title: Data ScientistRole Type: ContractorLocation: RemoteAbout the Role micro1 is partnering with a leading AI lab to hire data scientists and quantitative professionals from top companies.",
-    "url": "https://himalayas.app/companies/micro1/jobs/data-scientist-7470374102",
-    "created": "1970-01-21T17:19:11.414Z",
-    "type": "",
-    "source": "Himalayas"
-  },
-  {
-    "id": "himalayas-https://himalayas.app/companies/micro1/jobs/management-consultant-6757665049",
-    "title": "Management Consultant",
-    "company": "micro1",
-    "location": "Remote — worldwide",
-    "description": "Role Title: Management ConsultantRole Type: ContractorLocation: RemoteAbout the Role micro1 is partnering with a leading AI lab to bring on former management consultants for high-impact AI training and evaluation projects.",
-    "url": "https://himalayas.app/companies/micro1/jobs/management-consultant-6757665049",
-    "created": "1970-01-21T17:19:11.414Z",
     "type": "",
     "source": "Himalayas"
   },
