@@ -1,5 +1,71 @@
 [
   {
+    "id": "himalayas-https://himalayas.app/companies/atlassian/jobs/customer-success-architect-ai-service-management",
+    "title": "Customer Success Architect (AI), Service Management",
+    "company": "Atlassian",
+    "location": "Remote — ",
+    "description": "Overview Working at Atlassian Atlassians can choose where they work – whether in an office, from home, or a combination of the two.",
+    "url": "https://himalayas.app/companies/atlassian/jobs/customer-success-architect-ai-service-management?utm_source=api",
+    "created": "1970-01-21T18:45:56.947Z",
+    "type": "",
+    "source": "Himalayas"
+  },
+  {
+    "id": "himalayas-https://himalayas.app/companies/micro1/jobs/distinguished-researcher-research-program",
+    "title": "Distinguished Researcher, Research Program",
+    "company": "micro1",
+    "location": "Remote — worldwide",
+    "description": "Role Title: Distinguished Researcher, Research Program Role Type: Contractor Location: Remote Time commitment: Time commitment is flexible.",
+    "url": "https://himalayas.app/companies/micro1/jobs/distinguished-researcher-research-program?utm_source=api",
+    "created": "1970-01-21T18:45:56.188Z",
+    "type": "",
+    "source": "Himalayas"
+  },
+  {
+    "id": "himalayas-https://himalayas.app/companies/dispensed/jobs/staff-software-engineer",
+    "title": "Staff Software Engineer",
+    "company": "Dispensed",
+    "location": "Remote — ",
+    "description": "About Dispensed AtDispensed,we are passionate about empowering individuals to reach their full potential by supporting better health outcomes.",
+    "url": "https://himalayas.app/companies/dispensed/jobs/staff-software-engineer?utm_source=api",
+    "created": "1970-01-21T18:45:52.231Z",
+    "type": "",
+    "source": "Himalayas"
+  },
+  {
+    "id": "himalayas-https://himalayas.app/companies/atlassian/jobs/manager-sales-development-anz",
+    "title": "Manager, Sales Development, ANZ",
+    "company": "Atlassian",
+    "location": "Remote — ",
+    "description": "Overview Working at Atlassian Atlassians can choose where they work – whether in an office, from home, or a combination of the two.",
+    "url": "https://himalayas.app/companies/atlassian/jobs/manager-sales-development-anz?utm_source=api",
+    "created": "1970-01-21T18:45:27.436Z",
+    "type": "",
+    "source": "Himalayas"
+  },
+  {
+    "id": "himalayas-https://himalayas.app/companies/collaborative-solutions/jobs/workday-payroll-absence-time-tracking-senior-principal-consultant",
+    "title": "Workday Payroll, Absence, Time Tracking Senior Principal Consultant",
+    "company": "Collaborative Solutions",
+    "location": "Remote — , ",
+    "description": "The Senior Principal Consultant will “bridge the gap” between the business and technical teams by solving complex Workday intersystem problems.",
+    "url": "https://himalayas.app/companies/collaborative-solutions/jobs/workday-payroll-absence-time-tracking-senior-principal-consultant?utm_source=api",
+    "created": "1970-01-21T18:45:22.713Z",
+    "type": "",
+    "source": "Himalayas"
+  },
+  {
+    "id": "himalayas-https://himalayas.app/companies/komforce/jobs/merchandising-service-delivery-manager",
+    "title": "Merchandising Service Delivery Manager",
+    "company": "Komforce",
+    "location": "Remote — ",
+    "description": "ABOUT THE ROLE We are looking for an experienced Merchandising Service Delivery Manager to lead end-to-end Oracle Retail implementation and support engagements.",
+    "url": "https://himalayas.app/companies/komforce/jobs/merchandising-service-delivery-manager?utm_source=api",
+    "created": "1970-01-21T18:45:14.856Z",
+    "type": "",
+    "source": "Himalayas"
+  },
+  {
     "id": "himalayas-https://himalayas.app/companies/mercor/jobs/accounting-expert-cpa-certified",
     "title": "Accounting Expert - CPA Certified",
     "company": "mercor",
@@ -106,72 +172,6 @@
     "description": "About the Role We’re looking for a Machine Learning Engineer to own and push the limits of model inference performance at scale.",
     "url": "https://himalayas.app/companies/featherless-ai/jobs/machine-learning-engineer-inference-optimization-1530595301?utm_source=api",
     "created": "1970-01-21T18:44:51.972Z",
-    "type": "",
-    "source": "Himalayas"
-  },
-  {
-    "id": "himalayas-https://himalayas.app/companies/micro1/jobs/mechanical-design-engineer-aerospace-cnc-parts",
-    "title": "Mechanical Design Engineer — Aerospace CNC Parts",
-    "company": "micro1",
-    "location": "Remote — worldwide",
-    "description": "Role Title: Mechanical Design Engineer — Aerospace CNC Parts Role Type: Contractor Location: Fully remote Opportunity Snapshot Pay: $90 - $155/hour Engagement: Project-based, hourly tracked per task Location: Fully remote, no geographic restrictions You'll need: 5+ years designing CNC-machined production parts, with technical decision authority, and access to parametric CAD software Your tasks: Author original CAD part packages, and peer review packages from other engineers Your engineering judgment is what matters here — no prior AI experience required.",
-    "url": "https://himalayas.app/companies/micro1/jobs/mechanical-design-engineer-aerospace-cnc-parts?utm_source=api",
-    "created": "1970-01-21T18:44:50.455Z",
-    "type": "",
-    "source": "Himalayas"
-  },
-  {
-    "id": "himalayas-https://himalayas.app/companies/clera/jobs/expert-talent-pool-physical-ai-associate-0-5-years",
-    "title": "Expert Talent Pool, Physical AI (Associate, 0-5 Years)",
-    "company": "Clera",
-    "location": "Remote — worldwide",
-    "description": "About the Role Join an expert network supporting physical AI data-collection projects.",
-    "url": "https://himalayas.app/companies/clera/jobs/expert-talent-pool-physical-ai-associate-0-5-years?utm_source=api",
-    "created": "1970-01-21T18:44:49.863Z",
-    "type": "",
-    "source": "Himalayas"
-  },
-  {
-    "id": "himalayas-https://himalayas.app/companies/featherless-ai/jobs/ai-researcher-multilingual-data-7080086955",
-    "title": "AI Researcher – Multilingual Data",
-    "company": "Featherless AI",
-    "location": "Remote — worldwide",
-    "description": "About the Role We’re looking for an AI Researcher focused on multilingual data to help us build and scale next-generation language models across diverse languages and domains.",
-    "url": "https://himalayas.app/companies/featherless-ai/jobs/ai-researcher-multilingual-data-7080086955?utm_source=api",
-    "created": "1970-01-21T18:44:49.846Z",
-    "type": "",
-    "source": "Himalayas"
-  },
-  {
-    "id": "himalayas-https://himalayas.app/companies/clera/jobs/expert-talent-pool-physical-ai",
-    "title": "Expert Talent Pool, Physical AI",
-    "company": "Clera",
-    "location": "Remote — worldwide",
-    "description": "About the Role Lead physical AI data capture programs that help robots learn from human movement and manipulation.",
-    "url": "https://himalayas.app/companies/clera/jobs/expert-talent-pool-physical-ai?utm_source=api",
-    "created": "1970-01-21T18:44:47.533Z",
-    "type": "",
-    "source": "Himalayas"
-  },
-  {
-    "id": "himalayas-https://himalayas.app/companies/featherless-ai/jobs/machine-learning-engineer-distillation-7150229143",
-    "title": "Machine Learning Engineer — Distillation",
-    "company": "Featherless AI",
-    "location": "Remote — worldwide",
-    "description": "About the Role We’re looking for a Machine Learning Engineer focused on model distillation to help us build smaller, faster, and more efficient models without sacrificing quality.",
-    "url": "https://himalayas.app/companies/featherless-ai/jobs/machine-learning-engineer-distillation-7150229143?utm_source=api",
-    "created": "1970-01-21T18:44:46.218Z",
-    "type": "",
-    "source": "Himalayas"
-  },
-  {
-    "id": "himalayas-https://himalayas.app/companies/hillside-assets-limited/jobs/market-specialist",
-    "title": "Market Specialist",
-    "company": "HILLSIDE ASSETS LIMITED",
-    "location": "Remote — worldwide",
-    "description": "HILLSIDE ASSETS LIMITED is an international company focused on digital assets, financial markets, market research, and data-driven trading solutions.",
-    "url": "https://himalayas.app/companies/hillside-assets-limited/jobs/market-specialist?utm_source=api",
-    "created": "1970-01-21T18:39:43.688Z",
     "type": "",
     "source": "Himalayas"
   },
